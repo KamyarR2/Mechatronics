@@ -1,0 +1,6 @@
+{
+    "port": "COM9",
+    "board": "arduino:avr:uno",
+    "sketch": "mpu6050.ino",
+    "programmer": "arduinoasispatmega32u4"
+}
