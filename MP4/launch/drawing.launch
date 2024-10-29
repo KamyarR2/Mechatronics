@@ -1,0 +1,10 @@
+<launch>
+	<node pkg="turtlesim" type="turtlesim_node" name="turtle1"/>
+	<node pkg="demo_pckg" type="turtle_move1.py" name="turtlesim_move1"/>
+	<node pkg="demo_pckg" type="turtle_move2.py" name="turtlesim_move2"/>
+	<node pkg="demo_pckg" type="turtle_move3.py" name="turtlesim_move3"/>
+	<node pkg="demo_pckg" type="turtle_move4.py" name="turtlesim_move4"/>
+	<node pkg="demo_pckg" type="turtle_move5.py" name="turtlesim_move5"/>
+	<node pkg="demo_pckg" type="turtle_move6.py" name="turtlesim_move6"/>	
+	<node pkg="demo_pckg" type="turtle_move7.py" name="turtlesim_move7"/>	
+</launch>
